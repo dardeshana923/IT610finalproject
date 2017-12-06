@@ -1,0 +1,19 @@
+FINAL PROJECT IT610
+DONE BY: DHRUV ARDESHANA
+
+NOTE: THIS README FILE IS ONLY FOR DATABASE SERVER.
+
+Task Complete:
+------------------------------------------------
+
+
+
+
+
+Task TO DO:
+------------------------------------------------
+1.Install MySQL 
+2.Install Nagios Agent
+3.Write a bash script to backup database
+4.Rotate Backups (keep 7 days of dumps)
+
