@@ -5,14 +5,13 @@ NOTE: THIS README FILE IS ONLY FOR DATABASE SERVER.
 
 Task Complete:
 ------------------------------------------------
-
+1.Installed MySQL
 
 
 
 
 Task TO DO:
 ------------------------------------------------
-1.Install MySQL 
 2.Install Nagios Agent
 3.Write a bash script to backup database
 4.Rotate Backups (keep 7 days of dumps)
