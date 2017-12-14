@@ -6,7 +6,8 @@ NOTE: THIS README FILE IS ONLY FOR WEB SERVER.
 
 Task Completed: 
 ------------------------------------------------------
-
+1.Default Apache Page
+  -Installed apache 2
 
 
 
@@ -14,6 +15,4 @@ Task Completed:
 
 Task TODO:
 ------------------------------------------------------
-1. Install Nagios Agent
-2. Default Apache Page
-
+2. Install Nagios Agent
