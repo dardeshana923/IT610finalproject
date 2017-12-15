@@ -5,7 +5,8 @@ NOTE: THIS README FILE IS ONLY FOR NAGIOS SERVER
 
 Task Completed:
 ---------------------------------------------------------
-
+1. Installed Nagios Agent
+2. Installed Nagios Server
 
 
 
@@ -13,8 +14,6 @@ Task Completed:
 
 Task TODO:
 ---------------------------------------------------------
-1. Install Nagios Agent
-2. Install Nagios Server
 3. Push Notifications for alerts
 
 
