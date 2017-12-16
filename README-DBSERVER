@@ -7,11 +7,9 @@ Task Complete:
 ------------------------------------------------
 1.Installed MySQL
 2.Installed Nagios Agent to make sure DB Server is running
-
+3.Wrote a bash script to backup database and keep 7 days dumps 
+4.Scheduled crontab to run bash script every day at 5pm 
 
 
 Task TO DO:
 ------------------------------------------------
-3.Write a bash script to backup database
-4.Rotate Backups (keep 7 days of dumps)
-
